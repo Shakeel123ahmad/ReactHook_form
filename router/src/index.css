@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#a{
+  margin: 50px 269px 25px;
+  color: rgb(55, 55, 58);
+  text-align: center;
+}
+#b{
+  margin: 50px 269px 25px;
+  color: rgb(10, 205, 117);
+  text-align: center;
+}
+#c{
+  margin: 50px 269px 25px;
+  color: rgb(121, 119, 117);
+  text-align: center;
+}
